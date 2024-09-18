@@ -14,6 +14,16 @@ Moreover, Business Diagnostics can offer real-time guidance on current business 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Business Systems](https://github.com/sourceduty/Business_Systems)
+<br>
+[Improvement Value](https://github.com/sourceduty/Improvement_Value)
+<br>
+[Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
+<br>
+[Business Automation](https://github.com/sourceduty/Business_Automation)
+<br>
+[Tax Loophole](https://github.com/sourceduty/Tax_Loophole)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
