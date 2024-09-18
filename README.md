@@ -13,7 +13,7 @@ Moreover, Business Diagnostics can offer real-time guidance on current business 
 #
 ### Related Links
 
-[ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
