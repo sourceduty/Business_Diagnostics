@@ -24,6 +24,8 @@ Moreover, Business Diagnostics can offer real-time guidance on current business 
 [Business Automation](https://github.com/sourceduty/Business_Automation)
 <br>
 [Tax Loophole](https://github.com/sourceduty/Tax_Loophole)
+<br>
+[Employee Automation](https://github.com/sourceduty/Employee_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
